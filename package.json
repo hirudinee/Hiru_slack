@@ -1,0 +1,10 @@
+{
+  "name": "Hiru_slack",
+  "version": "0.8.0",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "@slappforge/slappforge-sdk": "0.0.3",
+    "https": "1.0.0",
+    "querystring": "0.2.0"
+  }
+}
